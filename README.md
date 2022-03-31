@@ -1,5 +1,7 @@
 
 # ToDo List
+![Image text](https://raw.githubusercontent.com/AlanDannS/formularios-React/master/img_principal.png)
+
 
 Este es un simple CRUD realizado en ReactJs haciendo uso de Hooks, en la aplicación podras guardar una tarea así como editarla y eliminarla.
 
